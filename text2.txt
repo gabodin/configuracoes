@@ -1,0 +1,2 @@
+Segunda alteração
+Terceira alteração - mas sem commit novo (utilizando amend)
